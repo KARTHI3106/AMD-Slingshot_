@@ -250,25 +250,7 @@ npm run build
 npm run preview
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
 
 ## License
 
 This project is licensed under the MIT License.
-
-## Support
-
-For issues, questions, or contributions, please open an issue on the GitHub repository.
-
-## Acknowledgments
-
-- Neo4j for graph database technology
-- LangGraph for multi-agent orchestration
-- Ollama for local LLM inference
-- D3.js for graph visualization
